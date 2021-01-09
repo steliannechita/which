@@ -1,0 +1,879 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main should render successfully 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-gsTCUz bOwAfn"
+    >
+      <h1>
+        TABLE OF MULTIPLES
+      </h1>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="1"
+      >
+        1
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="2"
+      >
+        2
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="3"
+      >
+        3
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="4"
+      >
+        4
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="5"
+      >
+        5
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="6"
+      >
+        6
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="7"
+      >
+        7
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="8"
+      >
+        8
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="9"
+      >
+        9
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="10"
+      >
+        10
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="11"
+      >
+        11
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="12"
+      >
+        12
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="13"
+      >
+        13
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="14"
+      >
+        14
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="15"
+      >
+        15
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="16"
+      >
+        16
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="17"
+      >
+        17
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="18"
+      >
+        18
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="19"
+      >
+        19
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="20"
+      >
+        20
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="21"
+      >
+        21
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="22"
+      >
+        22
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="23"
+      >
+        23
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="24"
+      >
+        24
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="25"
+      >
+        25
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="26"
+      >
+        26
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="27"
+      >
+        27
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="28"
+      >
+        28
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="29"
+      >
+        29
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="30"
+      >
+        30
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="31"
+      >
+        31
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="32"
+      >
+        32
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="33"
+      >
+        33
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="34"
+      >
+        34
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="35"
+      >
+        35
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="36"
+      >
+        36
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="37"
+      >
+        37
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="38"
+      >
+        38
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="39"
+      >
+        39
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="40"
+      >
+        40
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="41"
+      >
+        41
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="42"
+      >
+        42
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="43"
+      >
+        43
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="44"
+      >
+        44
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="45"
+      >
+        45
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="46"
+      >
+        46
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="47"
+      >
+        47
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="48"
+      >
+        48
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="49"
+      >
+        49
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="50"
+      >
+        50
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="51"
+      >
+        51
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="52"
+      >
+        52
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="53"
+      >
+        53
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="54"
+      >
+        54
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="55"
+      >
+        55
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="56"
+      >
+        56
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="57"
+      >
+        57
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="58"
+      >
+        58
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="59"
+      >
+        59
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="60"
+      >
+        60
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="61"
+      >
+        61
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="62"
+      >
+        62
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="63"
+      >
+        63
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="64"
+      >
+        64
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="65"
+      >
+        65
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="66"
+      >
+        66
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="67"
+      >
+        67
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="68"
+      >
+        68
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="69"
+      >
+        69
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="70"
+      >
+        70
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="71"
+      >
+        71
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="72"
+      >
+        72
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="73"
+      >
+        73
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="74"
+      >
+        74
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="75"
+      >
+        75
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="76"
+      >
+        76
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="77"
+      >
+        77
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="78"
+      >
+        78
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="79"
+      >
+        79
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="80"
+      >
+        80
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="81"
+      >
+        81
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="82"
+      >
+        82
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="83"
+      >
+        83
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="84"
+      >
+        84
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="85"
+      >
+        85
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="86"
+      >
+        86
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="87"
+      >
+        87
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="88"
+      >
+        88
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="89"
+      >
+        89
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="90"
+      >
+        90
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="91"
+      >
+        91
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="92"
+      >
+        92
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="93"
+      >
+        93
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="94"
+      >
+        94
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="95"
+      >
+        95
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="96"
+      >
+        96
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="97"
+      >
+        97
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="98"
+      >
+        98
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="99"
+      >
+        99
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="100"
+      >
+        100
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="101"
+      >
+        101
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="102"
+      >
+        102
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="103"
+      >
+        103
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="104"
+      >
+        104
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="105"
+      >
+        105
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="106"
+      >
+        106
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="107"
+      >
+        107
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="108"
+      >
+        108
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="109"
+      >
+        109
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="110"
+      >
+        110
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="111"
+      >
+        111
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="112"
+      >
+        112
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="113"
+      >
+        113
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="114"
+      >
+        114
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="115"
+      >
+        115
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="116"
+      >
+        116
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="117"
+      >
+        117
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="118"
+      >
+        118
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="119"
+      >
+        119
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="120"
+      >
+        120
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="121"
+      >
+        121
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="122"
+      >
+        122
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="123"
+      >
+        123
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="124"
+      >
+        124
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="125"
+      >
+        125
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="126"
+      >
+        126
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="127"
+      >
+        127
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="128"
+      >
+        128
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="129"
+      >
+        129
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="130"
+      >
+        130
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="131"
+      >
+        131
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="132"
+      >
+        132
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="133"
+      >
+        133
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="134"
+      >
+        134
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="135"
+      >
+        135
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="136"
+      >
+        136
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="137"
+      >
+        137
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="138"
+      >
+        138
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="139"
+      >
+        139
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="140"
+      >
+        140
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="141"
+      >
+        141
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="142"
+      >
+        142
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="143"
+      >
+        143
+      </button>
+      <button
+        class="sc-bdfBwQ bTeGaz"
+        value="144"
+      >
+        144
+      </button>
+    </div>
+  </div>
+</body>
+`;
