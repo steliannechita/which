@@ -8,7 +8,7 @@ describe("NumberBox", () => {
       numberValue: 1,
       isMultiple: false,
       isSelected: false,
-      handleClick: (e: any) => e,
+      handleClick: (e: React.MouseEvent<HTMLButtonElement>) => null,
     };
     const { baseElement } = render(<NumberBox {...props} />);
     expect(baseElement).toMatchSnapshot();

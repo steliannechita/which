@@ -5,7 +5,7 @@ export interface NumberBoxProps {
   numberValue: number;
   isMultiple: boolean;
   isSelected: boolean;
-  handleClick: (e: any) => any;
+  handleClick: (e: React.MouseEvent<HTMLButtonElement>) => void;
 }
 
 const NumberBox = (props: NumberBoxProps) => {

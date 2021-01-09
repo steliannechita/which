@@ -6,8 +6,8 @@ import { initialArray, NumberElement } from "../../utils";
 const Main = () => {
   const [numbersArray, setNumbersArray] = useState(initialArray);
 
-  const handleClick = (e: any) => {
-    const { value } = e.target;
+  const handleClick = (e: React.MouseEvent<HTMLButtonElement>): void => {
+    const { value } = e.currentTarget;
     const newNumbersArray: NumberElement[] = numbersArray.map(
       (number: NumberElement) => {
         if (number.numberValue % +value === 0) {
