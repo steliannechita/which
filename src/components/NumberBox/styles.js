@@ -15,7 +15,6 @@ export const NumberBoxWrapper = styled.button`
     width: 85%;
     min-width: 240px;
   }
-
   border: 1px solid black;
   border-radius: 5px;
   margin: 5px;
@@ -28,7 +27,5 @@ export const NumberBoxWrapper = styled.button`
   }
   &.with-border {
     border: 3px solid black;
-    border-radius: 5px;
-    background-color: #fcf484;
   }
 `;

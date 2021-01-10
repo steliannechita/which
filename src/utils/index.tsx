@@ -9,7 +9,8 @@ export type NumberElement = {
   isMultiple: boolean;
   isSelected: boolean;
 };
-export const initialArray: NumberElement[] = Array.from({ length: 144 }).map(
+export const initialArray: NumberElement[] = Array.from(
+  { length: 144 },
   (_, i) => ({
     numberValue: i + 1,
     isMultiple: false,

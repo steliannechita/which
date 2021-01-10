@@ -4,7 +4,7 @@ exports[`NumberBox should render successfully with props 1`] = `
 <body>
   <div>
     <button
-      class="sc-bdfBwQ bTeGaz"
+      class="sc-bdfBwQ gErxWH"
       value="1"
     >
       1
