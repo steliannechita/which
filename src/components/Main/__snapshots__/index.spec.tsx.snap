@@ -4,11 +4,19 @@ exports[`Main should render successfully 1`] = `
 <body>
   <div>
     <div
-      class="sc-gsTCUz bOwAfn"
+      class="sc-gsTCUz bLAJpv"
     >
       <h1>
         TABLE OF MULTIPLES
       </h1>
+      <p>
+        Select a number from the grid to see its multiples 
+      </p>
+      <p
+        class="remember"
+      >
+        * Also remember, every number is always a multiple of itself *
+      </p>
       <button
         class="sc-bdfBwQ gErxWH"
         value="1"

@@ -1,44 +1,7 @@
-# Which? Javascript Exercise
+# Reasoning for the tech stack used
 
-## Getting up and running
-
-Clone or fork this repo. If you'd rather start from scratch with your own setup that's fine too, as long as you complete [the exercise](#the-exercise).
-
-This repo contains a very simple webpack based development environment. We'll need to install some stuff to get going...
-
-### Requirements
-
-Webpack needs nodejs to do its thing. We aren't making a node app - just using it as a dev tool.
-
-- [nodejs](https://nodejs.org/en/)
-
-Installing node.js will also install [npm](https://www.npmjs.com) for us too. We'll need it for dependencies and some scripts.
-
-### Dependencies
-
-We have specified all the dependencies we need in the `package.json` file. Npm will install them for us:
-
-`$ npm install`
-
-### Run!
-
-Ok, time to run the app. Npm takes care of business again:
-
-`$ npm start`
-
-This will fire up the wepback dev server. It's not important to understand how it works for now.
-
-Open [http://localhost:8080/](http://localhost:8080/) in your browser and you should see a basic html page. If you open the development console in your browser you should see a welcome message.
-
-### Development
-
-The source files are located in `src/`. If you change a file, webpack will reload your files and refresh the browser for you.
-
-### Test
-
-You can run the example tests:
-
-`$ npm test`
+I have decided to use React JS to build this app, more precisely create-react-app, because it has it's own setup, works with Typescript (more safety added by using types) and using React also reflects in a very fast application, meeting the crieteria of reusability and scalability.
+For styling, I have opted for styled-components as the style is scoped to component level, no risk of class names clashing if application scales up.
 
 ## The exercise
 

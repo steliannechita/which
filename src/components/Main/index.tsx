@@ -8,10 +8,11 @@ const Main = () => {
 
   const handleClick = (e: React.MouseEvent<HTMLButtonElement>): void => {
     const { value } = e.currentTarget;
+    const valueAsNumber = +value;
     const newNumbersArray: NumberElement[] = numbersArray.map(
       (number: NumberElement) => {
-        if (number.numberValue % +value === 0) {
-          if (number.numberValue === +value) {
+        if (number.numberValue % valueAsNumber === 0) {
+          if (number.numberValue === valueAsNumber) {
             return { ...number, isMultiple: true, isSelected: true };
           }
           return { ...number, isMultiple: true, isSelected: false };
@@ -26,6 +27,11 @@ const Main = () => {
     <>
       <MainWrapper>
         <h1>TABLE OF MULTIPLES</h1>
+        <p>Select a number from the grid to see its multiples </p>
+        <p className="remember">
+          * Also remember, every number is always a multiple of itself *
+        </p>
+
         {numbersArray.map((item) => (
           <NumberBox
             key={item.numberValue}
