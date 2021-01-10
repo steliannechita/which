@@ -11,7 +11,9 @@ export const GlobalStyle = createGlobalStyle`
     justify-content:center;
     align-items:center;
   }
-  h1,p{margin:0}
+  h1 {
+    margin: 0;
+    }
 `;
 
 export const MainWrapper = styled.div`
