@@ -1,6 +1,6 @@
 # Reasoning for the tech stack used
 
-I have decided to use React JS to build this app, more precisely create-react-app, because it has it's own setup and works with Typescript (more safety added by using types). Using React also reflects in a very good performance of the app (check performance.png), meeting the crieteria of reusability and scalability.
+I have decided to use React JS to build this app, more precisely create-react-app, because it has its own setup and works with Typescript (more safety added by using types). Using React also reflects in a very good performance of the app (check performance.png), meeting the crieteria of reusability and scalability.
 For styling, I have opted for styled-components as we can keep the style scoped to component level, no risk of class names clashing if application scales up.
 
 ## The exercise
