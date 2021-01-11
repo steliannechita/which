@@ -18,4 +18,10 @@ describe("Main", () => {
     expect(getByText("50")).toHaveClass("highlight");
     expect(getByText("100")).toHaveClass("highlight");
   });
+  it("should correctly highlight multiples of a number and not its divisors", () => {
+    const { getByText } = render(<Main />);
+    fireEvent.click(getByText("100"));
+    expect(getByText("50")).not.toHaveClass("highlight");
+    expect(getByText("100")).toHaveClass("highlight");
+  });
 });

@@ -11,13 +11,11 @@ const Main = () => {
     const valueAsNumber = +value;
     const newNumbersArray: NumberElement[] = numbersArray.map(
       (number: NumberElement) => {
-        if (number.numberValue % valueAsNumber === 0) {
-          if (number.numberValue === valueAsNumber) {
-            return { ...number, isMultiple: true, isSelected: true };
-          }
-          return { ...number, isMultiple: true, isSelected: false };
-        }
-        return { ...number, isMultiple: false, isSelected: false };
+        return {
+          ...number,
+          isMultiple: number.numberValue % valueAsNumber === 0,
+          isSelected: number.numberValue === valueAsNumber,
+        };
       }
     );
     setNumbersArray(newNumbersArray);

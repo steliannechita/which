@@ -13,7 +13,7 @@ export const GlobalStyle = createGlobalStyle`
   }
   h1 {
     margin: 0;
-    }
+  }
 `;
 
 export const MainWrapper = styled.div`
